@@ -8,6 +8,8 @@
 
 import UIKit
 
+var API_USERNAME = "arinh"
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
